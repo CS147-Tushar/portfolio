@@ -26,7 +26,7 @@ const Hero = () => {
                 transition={{ duration: 0.8 }}
                 className="text-5xl font-extrabold drop-shadow-lg"
             >
-                Tushar Tandekar
+                Tushar Tande
             </motion.h1>
 
             {/* Typing Animation */}
